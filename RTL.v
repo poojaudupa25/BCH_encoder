@@ -1,3 +1,4 @@
+//(15, 7) BCH encoder
 module encoder(i_clk, i_rst_n, i_m, i_dv, o_parity, o_done);
 //assign input and output to port variables             
     input i_clk,i_rst_n;
